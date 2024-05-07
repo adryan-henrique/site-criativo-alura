@@ -1,8 +1,8 @@
  :root {
-    --preto-principal: #0B0A0A;
+    --preto-principal: #FFFFFF;
     --azul-secundario: #167BF7;
     --botão-cinza:     #9A8E8E;
-    --cor-de-fundo:    #FFFFFF;
+    --cor-de-fundo:    #0B0A0A;
 
  body {
      background-color: var(--cor-de-fundo);
